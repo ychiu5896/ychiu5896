@@ -34,4 +34,4 @@ I am an experienced engineer with a knack in problem solving and developing appl
 
 Let's Connect:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yichung-chiu-b14a94272/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yichungchiu)
