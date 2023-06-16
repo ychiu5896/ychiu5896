@@ -1,7 +1,7 @@
 ### Hi, I'm YC
 
 
-I am an experienced engineer with a knack in problem solving and developing applications. I take pride in writing clean, maintainable code that not only meets the immediate needs but also sets a strong foundation for future scalability and adaptability. I am passionate about software development, and my combination of technical proficiency, strategic thinking, and strong communication skills enables me to create software that aligns perfectly with a company's goals and contributes to its long-term success.
+Software Engineer experienced in diving into a complex codebase and building out features to a full-stack application. My areas of expertise is in React, Node.js/Express, Typescript, and AWS. I'm a true believer of creating software that align with company's objectives and contributing to its long-term success. Most recent work: DbSpy (https://db-spy.io) a SQL database visualizer
 
 
 ## Tech Stack:
