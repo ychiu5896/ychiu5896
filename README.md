@@ -1,7 +1,7 @@
 ### Hi, I'm YC
 
 
-Software Engineer experienced in diving into a complex codebase and building out features to a full-stack application. My areas of expertise is in React, Node.js/Express, Typescript, and AWS. I'm a true believer of creating software that align with company's objectives and contributing to its long-term success. Most recent work: DbSpy (https://db-spy.io) a SQL database visualizer.
+Software Engineer experienced in diving into a complex codebase and building out features to a full-stack application. My areas of expertise is in React, Node.js/Express, SQL,Typescript, and AWS. I'm a true believer of creating software that align with company's objectives and contributing to its long-term success. Most recent work: DbSpy (https://db-spy.io) a SQL database visualizer.
 
 
 ## Tech Stack:
